@@ -7,14 +7,14 @@
                 image.src="OIPXWBOY9YU.jpg";
                 var x=document.getElementById("bulb-on");
 
-                x.innerHTML="TURNED ON";
+                x.innerHTML="TURN OFF";
                 }
             else
                 {
                 image.src="LC.jpg";
                 var x=document.getElementById("bulb-on");
 
-                x.innerHTML="TURNED OFF";
+                x.innerHTML="TURN ON";
                 }
         
         }
