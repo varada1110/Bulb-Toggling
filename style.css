@@ -16,10 +16,11 @@ body
     font-family: monospace;
 }
 .button{
- 
+    margin-top:5%;
     padding-top: 8%;
-    padding-left:45%;
+    padding-left:97%%;
     cursor: pointer;
+    transform:translate(-50%,-50%);
    
 
 }
