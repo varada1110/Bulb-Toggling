@@ -16,10 +16,10 @@ body
     font-family: monospace;
 }
 .button{
-    position: absolute;
+    position: relative;
  
     padding-top: 8%;
-    padding-left:99%;
+    padding-left:97%;
     transform: translate(-50%,-50%);
 
 }
